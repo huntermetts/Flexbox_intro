@@ -21,3 +21,13 @@
 img {
     width: 250px;
 }
+
+.container_dog {
+    display: flex;
+    flex-direction: column;
+}
+
+.animal_dog{
+    text-align: center;
+}
+
